@@ -18,4 +18,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.3.0
         with:       
-          CREDLY_USER: sebastian-thomas.e85ad2c5 # optional, but default will use the same from github
+          CREDLY_USER: "sebastian-thomas.e85ad2c5" # optional, but default will use the same from github
