@@ -8,11 +8,13 @@ on:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
 jobs:
-  environment:
-    personal
-  update-readme:
-    name: Update Readme with badges
+  build-linux:
     runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 5
+    environment:
+      personal
+
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
