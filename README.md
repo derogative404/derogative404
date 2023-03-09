@@ -48,6 +48,11 @@ Here are some ideas to get you started:
     return name, location, degrees, majors, university, code, tools, interests
  ```
 
+ <details>
+
+ <summary>Click to reveal more...</summary>
+
  ## $industrycerts
  <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+ </details>
