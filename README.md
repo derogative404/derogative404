@@ -86,4 +86,9 @@ Here are some ideas to get you started:
 [![Microsoft Office Specialist World Championship - Excel](https://images.credly.com/size/110x110/images/d1abb292-8314-49ee-a48e-30987a970a13/MOSWC_2019_Badges_Excel_Participant.png)](http://www.credly.com/badges/a1b2b93c-0224-47b2-a982-4df552b60029 "Microsoft Office Specialist World Championship - Excel")
 [![Microsoft Office Specialist World Championship - Word](https://images.credly.com/size/110x110/images/2606480b-cd66-43bd-9cdd-d84720e18130/MOSWC_2018_Badges_Participant-WORD.png)](http://www.credly.com/badges/8269b1a0-c604-4f33-bb77-82b2550915a9 "Microsoft Office Specialist World Championship - Word")
 <!--END_SECTION:badges-->
+
+## $mystats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=derogative404&count_private=true&show_icons=true&theme=dark)
+
  </details>
