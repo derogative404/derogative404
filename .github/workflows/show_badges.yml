@@ -1,10 +1,15 @@
 name: show_badges
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
 jobs:
+  environment:
+    personal
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
@@ -12,4 +17,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: sebastianthomas588@gmail.com # optional, but default will use the same from github
+          CREDLY_USER: ${{ secrets.EMAIL }} # optional, but default will use the same from github
