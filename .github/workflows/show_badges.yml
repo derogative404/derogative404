@@ -8,10 +8,9 @@ on:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
 jobs:
-  build-linux:
+  update-readme:
+    name: Update Readme with badges
     runs-on: ubuntu-latest
-    strategy:
-      max-parallel: 5
     environment:
       personal
 
