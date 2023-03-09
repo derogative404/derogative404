@@ -1,4 +1,4 @@
-name: show_badges
+name: Update badges
 
 on:
   push:
@@ -16,6 +16,6 @@ jobs:
 
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@2.3.0
         with:       
-          CREDLY_USER: ${{ secrets.EMAIL }} # optional, but default will use the same from github
+          CREDLY_USER: sebastian-thomas.e85ad2c5 # optional, but default will use the same from github
