@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## $whoami
+## About Me
  ```python
  def about_me():
     
@@ -48,11 +48,7 @@ Here are some ideas to get you started:
     return name, location, degrees, majors, university, code, tools, interests
  ```
 
- <details>
-
- <summary>Click to reveal more...</summary>
-
- ## $industrycerts
+ ## Industry Certifications
  <!--START_SECTION:badges-->
 
 [![Google Data Analytics Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/7e770bce-3234-46bd-a9cf-87adfffb610c "Google Data Analytics Certificate")
@@ -87,8 +83,6 @@ Here are some ideas to get you started:
 [![Microsoft Office Specialist World Championship - Word](https://images.credly.com/size/110x110/images/2606480b-cd66-43bd-9cdd-d84720e18130/MOSWC_2018_Badges_Participant-WORD.png)](http://www.credly.com/badges/8269b1a0-c604-4f33-bb77-82b2550915a9 "Microsoft Office Specialist World Championship - Word")
 <!--END_SECTION:badges-->
 
-## $mystats
+## GitHub Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=derogative404&count_private=true&show_icons=true&theme=dark)
-
- </details>
