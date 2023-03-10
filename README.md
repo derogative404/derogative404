@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  def about_me():
     
     name = "Sebastian Thomas"
-    location = "Auckland, New Zealand"
+    location = "New Zealand"
     degrees = "Bachelor of Engineering (Hons) / Bachelor of Commerce conjoint"
     majors = ["Engineering Science", "Business Analytics"]
     university = "University of Auckland, New Zealand"
