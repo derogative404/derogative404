@@ -33,9 +33,9 @@ Here are some ideas to get you started:
     majors = ["Engineering Science", "Business Analytics"]
     university = "University of Auckland, New Zealand"
     
-    code =  ["Python", "R", "SQL", "Java", "JavaScript", 
-            "HTML", "CSS", "VBA", "C++", "C", "MATLAB", 
-            "LaTeX", "Bash"]
+    code =  ["Python", "R", "SQL", "Java", "JavaScript",
+            "React", "Express", "Julia", "HTML", "CSS", "VBA", 
+            "C++", "C", "C#", "MATLAB", "LaTeX", "Bash"]
     
     tools = ["Git", "Jupyter Notebook", "RStudio", 
             "Tableau", "Power BI", "Microsoft Office", 
